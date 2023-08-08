@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilramjali" alt="sahilramjali" /></a> </p>
 
-- 💬 Ask me about **react,flutter,javascript,dart**
+- 💬 Ask me about **React, Flutter,Javascript and Dart**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
