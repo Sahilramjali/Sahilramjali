@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sahil Ramjali</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate Mobile app developer from Nepal</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilramjali" alt="sahilramjali" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Kotlin Jetpack Compose**
 
-- 💬 Ask me about **react,flutter,javascript,dart**
+- 💬 Ask me about **Flutter,dart,react,javascript**
 
 
 <p align="left">
@@ -13,6 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <a href="https://kotlinlang.org/docs/home.html" target="_blank" rel="noreferrer"><img src="https://blog.jetbrains.com/wp-content/uploads/2019/01/Kotlin-5.svg" alt="kotlin" width="60" height="60"/></a> &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> &nbsp;&nbsp;
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/> </a>&nbsp;&nbsp;
  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/> </a> &nbsp;&nbsp;
@@ -28,7 +29,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a> &nbsp;&nbsp;
   <a href="https://bloclibrary.dev/#/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/felangel/bloc/master/assets/logos/bloc.png" alt="bloc" width="100" height="60"/> </a>&nbsp;&nbsp;
   <a href="https://docs.pmnd.rs/zustand/getting-started/introduction" target="_blank" rel="noreferrer"> <img src="https://github.com/pmndrs/zustand/raw/main/bear.jpg" alt="zustand" width="100" height="60"/> </a>&nbsp;&nbsp;
-
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilramjali&show_icons=true&locale=en&layout=compact" alt="sahilramjali" /></p>
